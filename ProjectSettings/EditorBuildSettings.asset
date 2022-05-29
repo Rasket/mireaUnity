@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/RABOTA_12.unity
+    guid: 8fd872832a1a4fa4e8a774ac895a9312
+  - enabled: 0
+    path: Assets/Scenes/Scene2.unity
+    guid: 69860844689165b478cb11d41fcb7938
+  - enabled: 1
+    path: Assets/Scenes/15.unity
+    guid: 078995534162b314f8459e936c55edc6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a46b115eea95733438e8bbf3197ab49c, type: 2}
